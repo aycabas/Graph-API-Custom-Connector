@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29209.152
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{4DF76451-A46A-4C0B-BE03-459FAAFA07E6}") = "MyGraph", "MyGraph.mproj", "{ACB664A8-D37A-4A98-A7CC-F85E5AB62EBD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{ACB664A8-D37A-4A98-A7CC-F85E5AB62EBD}.Debug|x86.ActiveCfg = Debug|x86
+		{ACB664A8-D37A-4A98-A7CC-F85E5AB62EBD}.Debug|x86.Build.0 = Debug|x86
+		{ACB664A8-D37A-4A98-A7CC-F85E5AB62EBD}.Release|x86.ActiveCfg = Release|x86
+		{ACB664A8-D37A-4A98-A7CC-F85E5AB62EBD}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8547DFFB-4767-4143-B38F-771E4F8B6BD9}
+	EndGlobalSection
+EndGlobal
